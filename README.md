@@ -27,12 +27,11 @@ You are my ![Visitor Count][visitor] visitors, Thank You!:kissing_heart::kissing
 
 #### Games
 
-Also play galgame and BlueArchive.
+Also play Galgame and BlueArchive.
 
 #### Status
 
 ![A.R.O.N.A's GitHub stats][stats_graph]
-
 ![Top Langs][lang]
 
 ![Activity Graph][activity]
@@ -41,7 +40,7 @@ Also play galgame and BlueArchive.
 
 ![Plana][plana]
 
-[visitor]: http://antzuhl.cn:4000/get/@plana-planetarium
+[visitor]: https://count.getloli.com/get/@:plana-planetarium
 
 [blog_img]: https://img.shields.io/badge/A.R.O.N.A-f9e2ee
 [plana-planetarium]: https://plana-planetarium.github.io
@@ -57,6 +56,6 @@ Also play galgame and BlueArchive.
 
 [stats_graph]: https://github-readme-stats.vercel.app/api?username=plana-planetarium&show_icons=true&theme=tokyonight
 [lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=plana-planetarium&layout=compact&theme=tokyonight
-[activity]: https://github-readme-activity-graph.cyclic.app/graph?username=plana-planetarium&theme=tokyo-night
+[activity]: https://github-readme-activity-graph.vercel.app/graph?username=plana-planetarium&theme=tokyo-night
 
-[plana]: ./立绘.png
+[plana]: ./plana.png
