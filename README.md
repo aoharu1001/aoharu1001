@@ -1,12 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 > うーーん……視線を感じます。
 
 This is `A.R.O.N.A` or you can call me `猫墨` or `maomo`.
 
-You are my ![Visitor Count][visitor] visitors, Thank You!:kissing_heart::kissing_heart:
-
-#### Self-introduce
+## Self-introduce
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
@@ -15,28 +13,32 @@ You are my ![Visitor Count][visitor] visitors, Thank You!:kissing_heart::kissing
 - 📫 How to reach me: `3412294524@qq.com`
 - 😄 Read more about my blog: [![A.R.O.N.A][blog_img]][plana-planetarium]
 
-#### Languages
+## Visitor Count
+
+![Visitor Count][visitor]
+
+## Languages
 
 [![Python][python_img]][python]
 [![Git][git_img]][git]
 
-#### Devices
+## Devices
 
 [![Arch Linux][arch_img]][arch]
 [![Huawei Mate20Pro][huawei_img]][huawei]
 
-#### Games
+## Games
 
 Also play Galgame and BlueArchive.
 
-#### Status
+## Status
 
 ![A.R.O.N.A's GitHub stats][stats_graph]
 ![Top Langs][lang]
 
 ![Activity Graph][activity]
 
-#### Ending with a picture of `Plana` from `BlueArchive`
+## Ending with a picture of `Plana` from `BlueArchive`
 
 ![Plana][plana]
 
