@@ -53,7 +53,7 @@ Also play Galgame and BlueArchive.
 [python]: https://www.python.org/
 [git_img]: https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white
 [git]: https://git-scm.com/
-[arch_img]: https://img.shields.io/badge/Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff
+[arch_img]: https://img.shields.io/badge/Arch-Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff
 [arch]: https://www.archlinux.org/
 [huawei_img]: https://img.shields.io/badge/Huawei-Mate20Pro-f5010c?style=flat-square&logo=huawei&logoColor=ffffff
 [huawei]: https://www.huawei.com/
