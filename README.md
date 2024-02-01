@@ -10,7 +10,7 @@ This is `A.R.O.N.A` or you can call me `猫墨` or `maomo`.
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
-- 🎒 I’m currently studying in school.
+- 🎒 I’m studying in school now.
 - ❤️ I also do cosplay and you can see the photos in my blog.
 - 📫 How to reach me: `3412294524@qq.com`
 - 😄 Read more about my blog: [![A.R.O.N.A][blog_img]][plana-planetarium]
