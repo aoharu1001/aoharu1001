@@ -29,10 +29,6 @@ This is `A.R.O.N.A` or you can call me `猫墨` or `maomo`.
 [![Arch Linux][arch_img]][arch]
 [![Huawei Mate60Pro][huawei_img]][huawei]
 
-## Games
-
-Also play Galgame and BlueArchive.
-
 ## Status
 
 ![A.R.O.N.A's GitHub stats][stats_graph]
