@@ -27,7 +27,7 @@ This is `A.R.O.N.A` or you can call me `猫墨` or `maomo`.
 ## Devices
 
 [![Arch Linux][arch_img]][arch]
-[![Huawei Mate20Pro][huawei_img]][huawei]
+[![Huawei Mate60Pro][huawei_img]][huawei]
 
 ## Games
 
@@ -40,10 +40,6 @@ Also play Galgame and BlueArchive.
 
 ![Activity Graph][activity]
 
-## Ending with a picture of `Plana` from `BlueArchive`
-
-![Plana][plana]
-
 [visitor]: https://count.getloli.com/get/@:plana-planetarium
 
 [blog_img]: https://img.shields.io/badge/A.R.O.N.A-f9e2ee
@@ -55,11 +51,9 @@ Also play Galgame and BlueArchive.
 [git]: https://git-scm.com/
 [arch_img]: https://img.shields.io/badge/Arch-Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff
 [arch]: https://www.archlinux.org/
-[huawei_img]: https://img.shields.io/badge/Huawei-Mate20Pro-f5010c?style=flat-square&logo=huawei&logoColor=ffffff
+[huawei_img]: https://img.shields.io/badge/Huawei-Mate60Pro-f5010c?style=flat-square&logo=huawei&logoColor=ffffff
 [huawei]: https://www.huawei.com/
 
 [stats_graph]: https://github-readme-stats.vercel.app/api?username=plana-planetarium&show_icons=true&theme=tokyonight
 [lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=plana-planetarium&layout=compact&theme=tokyonight
 [activity]: https://github-readme-activity-graph.vercel.app/graph?username=plana-planetarium&theme=tokyo-night
-
-[plana]: ./plana.png
