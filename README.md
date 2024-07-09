@@ -46,6 +46,6 @@ This is `Aoharu` or you can call me `maomo`.
 [huawei_img]: https://img.shields.io/badge/Huawei-Mate60Pro-f5010c?style=flat-square&logo=huawei&logoColor=ffffff
 [huawei]: https://www.huawei.com/
 
-[stats_graph]: https://github-readme-stats.vercel.app/api?username=plana-planetarium&show_icons=true&theme=tokyonight
-[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=plana-planetarium&layout=compact&theme=tokyonight
-[activity]: https://github-readme-activity-graph.vercel.app/graph?username=plana-planetarium&theme=tokyo-night
+[stats_graph]: https://github-readme-stats.vercel.app/api?username=aoharu1001&show_icons=true&theme=tokyonight
+[lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=aoharu1001&layout=compact&theme=tokyonight
+[activity]: https://github-readme-activity-graph.vercel.app/graph?username=aoharu1001&theme=tokyo-night
