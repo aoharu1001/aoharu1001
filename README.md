@@ -4,7 +4,7 @@
 
 > うーーん……視線を感じます。
 
-This is `A.R.O.N.A` or you can call me `猫墨` or `maomo`.
+This is `Aoharu` or you can call me `maomo`.
 
 ## Self-introduce
 
@@ -13,7 +13,6 @@ This is `A.R.O.N.A` or you can call me `猫墨` or `maomo`.
 - 🎒 I’m studying in school now.
 - ❤️ I also do cosplay and you can see the photos in my blog.
 - 📫 How to reach me: `3412294524@qq.com`
-- 😄 Read more about my blog: [![A.R.O.N.A][blog_img]][plana-planetarium]
 
 ## Visitor Count
 
@@ -37,9 +36,6 @@ This is `A.R.O.N.A` or you can call me `猫墨` or `maomo`.
 ![Activity Graph][activity]
 
 [visitor]: https://count.getloli.com/get/@:plana-planetarium
-
-[blog_img]: https://img.shields.io/badge/A.R.O.N.A-f9e2ee
-[plana-planetarium]: https://plana-planetarium.github.io
 
 [python_img]: https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff
 [python]: https://www.python.org/
