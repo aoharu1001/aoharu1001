@@ -12,7 +12,6 @@ This is `Aoharu` or you can call me `maomo`.
 - 🌱 I’m currently learning Everything I like.
 - 🎒 I’m studying in school now.
 - ❤️ I also do cosplay and you can see the photos in my blog.
-- 📫 How to reach me: `3412294524@qq.com`
 
 ## Visitor Count
 
